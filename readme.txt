@@ -1,3 +1,5 @@
+Check the documentation before you run the code!
+
 make sure you have packages:
 
 numpy
@@ -33,4 +35,4 @@ OUTPUT:
 ./logfile.txt   - the indivdicual rotation and translation of each step and information if the sanity check was negative.
 
 
-Check the documentation!
+
