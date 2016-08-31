@@ -1,4 +1,4 @@
-Check the documentation before you run the code!
+Check the documentation.pdf to see what this is about!
 
 make sure you have packages:
 
